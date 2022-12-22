@@ -1,6 +1,7 @@
 # pgSystemTester GitHub Page
-Since 2020, I've been using GitHub more frequently as a place to host various code and technical gems I've captured. I'm aware that much of what I
-post is not actually a _**project**_ (the intended use of Github). However, Github's clean code interface combined with the fact that this site isn't blocked by most
+Since 2020, I've been using GitHub more frequently as a partial substitute for OneNote/learning to insert various code and technical gems I've captured.
+I'm aware that much of what I post is not actually a _**project**_ (the intended use of Github). 
+However, Github's clean code interface combined with the fact that this site isn't blocked by most
 of my customers makes it a good fit.
 
 If you find any of my open repositories useful, feel free to fork, comment, like or whatever people do.
@@ -45,12 +46,21 @@ clean documents
 - My PDF Scripting (please contribute!)
 
 ## Video Games
-I play Fortnite quite a bit. Shoot me an invite and let's ready up and send some kids to the lobby.
+I play Fortnite quite a bit. Every now and then I'll post something on [this tikTok channel](https://www.tiktok.com/@pgsystemtester). Shoot me an invite and let's ready up and send some kids to the lobby.
 
 - [Track my stats here](https://fortnitetracker.com/profile/all/pgSystemTester)
 (more later)
 
+<!-- ## Troll Writing On NextDoor
+For some reason I get a big kick out of making intentionally idiotic posts that (hopefully) result in ultra-serious individuals spiraling into madnesss.
+The website NextDoor is particularly ripe with folks who are eager to be critical. People know me there now, but below are a few posts that definitely got some attention.
 
+
+
+
+- April Fools 2022 (me complaining about about how people were upset that my fake dog was off a leash attacking children at a park)
+- 
+ -->
 
 
 
